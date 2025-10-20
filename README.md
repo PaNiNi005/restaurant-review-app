@@ -70,20 +70,6 @@ npm run dev
 ฟอร์มรีวิว
 ![Review](screenshots/review-form.png)
 
-### หน้าแรก
-![Home](screenshots/home.png)
-
-
-
-### รายละเอียดร้าน
-![Detail](screenshots/detail.png)
-
-
-
-### ฟอร์มรีวิว
-![Review](screenshots/review-form.png)
->>>>>>> b93337e (Update README and add screenshots)
-
 
 
 👨‍💻 ผู้พัฒนา
