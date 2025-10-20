@@ -36,7 +36,6 @@
 
 ## ⚙️ วิธีติดตั้งและรัน
 
-### Backend
 ```bash
 cd backend
 npm install
@@ -61,17 +60,15 @@ npm run dev
 
 📸 Screenshots
 หน้าแรก (รายการร้าน)
-![alt text](image.png)
-
+<img width="1892" height="851" alt="image" src="https://github.com/user-attachments/assets/3c125278-6a2f-4a14-b954-e944dd0e0ed4" />
 
 
 รายละเอียดร้าน
-![alt text](image-1.png)
-
+<img width="1899" height="852" alt="image" src="https://github.com/user-attachments/assets/cc7928ce-06d0-4257-a088-2f11a4238f6c" />
 
 
 ฟอร์มรีวิว
-![alt text](image-2.png)
+<img width="1902" height="765" alt="image" src="https://github.com/user-attachments/assets/c5adb0d6-e1ce-47ef-ad71-a94aafcf0dcf" />
 
 
 
@@ -82,3 +79,4 @@ npm run dev
 
 ## License
 MIT License
+
