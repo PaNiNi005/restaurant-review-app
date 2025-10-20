@@ -61,14 +61,14 @@ npm run dev
 📸 Screenshots
 
 หน้าแรก (รายการร้าน)
-![Home](screenshots/home.png)
+(รูปอยู่ใน screenshots/home.png)
 
 รายละเอียดร้าน
-![Detail](screenshots/detail.png)
+(รูปอยู่ใน screenshots/detail.png)
 
 
 ฟอร์มรีวิว
-![Review](screenshots/review-form.png)
+(รูปอยู่ใน screenshots/reviwe-form.png)
 
 
 
@@ -79,5 +79,6 @@ npm run dev
 
 ## License
 MIT License
+
 
 
