@@ -59,6 +59,7 @@ npm run dev
 
 
 📸 Screenshots
+
 หน้าแรก (รายการร้าน)
 <img width="1892" height="851" alt="image" src="https://github.com/user-attachments/assets/3c125278-6a2f-4a14-b954-e944dd0e0ed4" />
 
@@ -69,6 +70,20 @@ npm run dev
 
 ฟอร์มรีวิว
 <img width="1902" height="765" alt="image" src="https://github.com/user-attachments/assets/c5adb0d6-e1ce-47ef-ad71-a94aafcf0dcf" />
+
+### หน้าแรก
+![Home](screenshots/home.png)
+
+
+
+### รายละเอียดร้าน
+![Detail](screenshots/detail.png)
+
+
+
+### ฟอร์มรีวิว
+![Review](screenshots/review-form.png)
+>>>>>>> b93337e (Update README and add screenshots)
 
 
 
